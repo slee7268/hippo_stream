@@ -1,0 +1,32 @@
+[
+    {
+        "date": "1/11",
+        "run_name": "LabDetector v1 + original prompt",
+        "results": {
+            "value_acc": 0.9080779944289693,
+            "label_acc": 0.9275766016713092,
+            "overall_acc": 0.871866295264624,
+            "num_examples": 359
+        }
+    },
+    {
+        "date": "1/12",
+        "run_name": "LabDetector v2 + original prompt",
+        "results": {
+            "value_acc": 0.9721448467966574,
+            "label_acc": 0.9220055710306406,
+            "overall_acc": 0.9192200557103064,
+            "num_examples": 359
+        }
+    },
+    {
+        "date": "1/12",
+        "run_name": "LabDetector v2 + bp shot prompt",
+        "results": {
+            "value_acc": 0.9805013927576601,
+            "label_acc": 0.9331476323119777,
+            "overall_acc": 0.9303621169916435,
+            "num_examples": 359
+        }
+    }
+]
